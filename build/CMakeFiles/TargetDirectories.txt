@@ -1,0 +1,5 @@
+/home/oriol/Epitech_projects/2_C++/babel/build/CMakeFiles/rebuild_cache.dir
+/home/oriol/Epitech_projects/2_C++/babel/build/CMakeFiles/edit_cache.dir
+/home/oriol/Epitech_projects/2_C++/babel/build/server/CMakeFiles/rebuild_cache.dir
+/home/oriol/Epitech_projects/2_C++/babel/build/server/CMakeFiles/babel_server.dir
+/home/oriol/Epitech_projects/2_C++/babel/build/server/CMakeFiles/edit_cache.dir

@@ -1,0 +1,9 @@
+[requires]
+opus/1.3.1@bincrafters/stable
+portaudio/v190600.20161030@bincrafters/stable
+sqlite_orm/1.4@bincrafters/stable
+boost/1.71.0@conan/stable
+cereal/1.2.2@conan/stable
+
+[generators]
+cmake

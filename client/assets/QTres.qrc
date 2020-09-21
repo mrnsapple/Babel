@@ -1,0 +1,12 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource>
+        <file>de.png</file>
+        <file>icon.png</file>
+        <file>InCall.png</file>
+        <file>Offline.png</file>
+        <file>Online.png</file>
+        <file>PendingFriendRequest.png</file>
+        <file>te.png</file>
+        <file>tick.png</file>
+    </qresource>
+</RCC>
